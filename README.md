@@ -42,7 +42,7 @@
 
   <footer>
     <small><i>Copyright © 2022 Pacific Trails Resort</i></small><br>
-    <a href="mailto:yourname@email.com">Your Name</a>
+    <a href="jwheele1@highpoint.edu">Jacob Wheeler</a>
   </footer>
 </body>
 </html>
