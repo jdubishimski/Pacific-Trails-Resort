@@ -36,12 +36,12 @@
       Pacific Trails Resort<br>
       12010 Pacific Trails Road<br>
       Zephyr, CA 95555<br>
-      888-555-5555
+      336-221-4155
     </div>
   </main>
 
   <footer>
-    <small><i>Copyright © 2022 Pacific Trails Resort</i></small><br>
+    <small><i>Copyright © 2025 Pacific Trails Resort</i></small><br>
     <a href="jwheele1@highpoint.edu">Jacob Wheeler</a>
   </footer>
 </body>
