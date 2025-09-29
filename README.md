@@ -35,7 +35,7 @@
     <div>
       Pacific Trails Resort<br>
       12010 Pacific Trails Road<br>
-      Zephyr, CA 95555<br>
+      Los Angeles, CA 95555<br>
       336-221-4155
     </div>
   </main>
